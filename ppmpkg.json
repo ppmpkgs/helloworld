@@ -1,0 +1,11 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "dependencies": [],
+  "buildOptions": {
+    "syntaxOptions": {
+      "longStrings": true
+    },
+    "mode": "objfpc"
+  }
+}
