@@ -6,12 +6,14 @@ This is a PPM package intended for testing.
 
 Install this package with:
 
-    ppm install ppmpkgs/helloworld
+~~~
+ppm install ppmpkgs/helloworld
+~~~
 
 Then use it in your code like this:
 
 ~~~ pascal
-uses Hello;
+uses HelloWorld;
 ~~~
 
-And call the `HelloWorld` procedure!
+And call the `HelloWorld.HelloWorld` procedure (or the `HW` alias)!

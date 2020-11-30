@@ -1,1 +1,5 @@
-begin end.
+uses HelloWorld;
+
+begin
+  Hello
+end.
