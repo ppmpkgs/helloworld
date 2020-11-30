@@ -1,5 +1,5 @@
 uses HelloWorld;
 
 begin
-  Hello
+  HelloWorld
 end.
