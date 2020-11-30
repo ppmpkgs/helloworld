@@ -1,5 +1,5 @@
 uses HelloWorld;
 
 begin
-  HelloWorld
+  HelloWorld.HelloWorld
 end.
